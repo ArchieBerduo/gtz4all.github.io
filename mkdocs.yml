@@ -1,10 +1,10 @@
 # ref link: https://alinex.gitlab.io/env/mkdocs/
 
 # Site Information
-site_name: Gtz4All
-site_url: https://gtz4all.github.io/
+site_name: Alan Berduo
+site_url: https://archieberduo.github.io/
 site_description: Gtz4All Reference Documentation
-site_author: Kervin Gtz
+site_author: Alan Berduo
 site_description: >-
   Providing easy to deploy, reusable and automated solution for defining, provisioning and managing secure and scalable public and private cloud infrastructure environment. 
 copyright: "Copyright 2022 <a href='https://gtz4all.github.io'>Gtz4All</a>. All Rights Reserved." 
